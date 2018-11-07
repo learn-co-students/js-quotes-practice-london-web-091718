@@ -82,4 +82,3 @@ quotesForm.addEventListener("submit", () => {
     }
     addQuote(newQuote)
 })
-
