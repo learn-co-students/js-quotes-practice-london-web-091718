@@ -1,3 +1,24 @@
 #quote-list {
   padding: 20px;
 }
+#edit-form-holder {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0,0,0,0.5)
+}
+#edit-quote-form {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: auto;
+  bottom: 50%;
+  max-width: 600px;
+  border-radius: 4px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 40px;
+  background-color: #49d9ff;
+}
